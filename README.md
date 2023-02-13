@@ -4,4 +4,5 @@
 # test1 10,07
 # utrzymac szyk trzeba bronic bestie kodo
 # test1 10,36
+# test1 11,01
 
